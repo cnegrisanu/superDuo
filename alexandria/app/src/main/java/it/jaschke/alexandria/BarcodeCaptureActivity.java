@@ -43,7 +43,7 @@ public class BarcodeCaptureActivity extends AppCompatActivity {
 
     private CameraSource mCameraSource;
     private CameraSourcePreview mPreview;
-//    private GraphicOverlay<BarcodeGraphic> mGraphicOverlay;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
